@@ -1,0 +1,6 @@
+{
+  "name": "Bharati English Medium School",
+  "description": "Official responsive website for Bharati English Medium School featuring modern campus & classroom tours, faculty profiles, interactive events calendar, student announcements, and achievement gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
